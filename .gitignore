@@ -88,3 +88,11 @@ i18n/*/phases/
 i18n/*/.cache/
 i18n/*/.translate-cache.json
 site/langs.js
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+models/
+datasets/
+cach/

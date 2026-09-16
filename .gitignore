@@ -95,4 +95,4 @@ site/langs.js
 *.pth
 models/
 datasets/
-cach/
+cache/
